@@ -1,0 +1,43 @@
+Const,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Directors,Budget, Box Office ,Verdict
+tt0417011,Nerukku Ner,https://www.imdb.com/title/tt0417011/,Movie,7.4,178,1997,"Action, Drama, Romance",2815,Vasanth,"? 21,00,000.00"," ? 69,00,000.00 ",Hit
+tt1725993,Kaadhale Nimmadhi,https://www.imdb.com/title/tt1725993/,Movie,5.8,118,1998,"Drama, Romance",298,Indiran,"? 25,00,000.00"," ? 28,00,000.00 ",Flop
+tt6358168,Sandhippoma,https://www.imdb.com/title/tt6358168/,Movie,5.7,136,1998,"Drama, Romance",266,Indrakumar,"? 20,00,000.00"," ? 20,00,000.00 ",Flop
+tt0332313,Periyanna,https://www.imdb.com/title/tt0332313/,Movie,4.8,148,1999,"Action, Drama, Romance",379,S.A. Chandrashekhar,"? 56,00,000.00"," ? 67,00,000.00 ",Flop
+tt0323675,Poovellam Kettuppar,https://www.imdb.com/title/tt0323675/,Movie,6.6,148,1999,"Comedy, Romance",740,Vasanth,"? 45,00,000.00"," ? 70,00,000.00 ",Average
+tt4971292,Uyirile Kalanthathu,https://www.imdb.com/title/tt4971292/,Movie,6.4,149,2000,Thriller,378,K.R. Jaya,"? 19,00,000.00"," ? 34,00,000.00 ",Flop
+tt0308280,Friends,https://www.imdb.com/title/tt0308280/,Movie,7.9,167,2001,"Action, Comedy, Drama, Romance",6021,Siddique,"? 90,00,000.00"," ? 3,40,00,000.00 ",Super hit
+tt0375997,Nandha,https://www.imdb.com/title/tt0375997/,Movie,7.6,165,2001,"Action, Drama",2868,Bala,"? 78,00,000.00"," ? 8,00,00,000.00 ",Super hit
+tt6358182,Unnai Ninaithu,https://www.imdb.com/title/tt6358182/,Movie,7.2,163,2002,Drama,1167,Vikraman,"? 1,20,00,000.00"," ? 72,90,00,000.00 ",Super hit
+tt5985446,Shree,https://www.imdb.com/title/tt5985446/,Movie,5.4,148,2002,"Action, Drama",355,Pushpavasagan,"? 88,00,000.00"," ? 99,00,000.00 ",Flop
+tt0386650,Mounam Pesiyadhe,https://www.imdb.com/title/tt0386650/,Movie,7.7,148,2002,"Drama, Romance",2703,Ameer Sultan,"? 1,50,00,000.00"," ? 9,20,00,000.00 ",Super hit
+tt0375878,Kaakha Kaakha,https://www.imdb.com/title/tt0375878/,Movie,8,153,2003,"Action, Crime, Drama, Musical, Thriller",7480,Gautham Vasudev Menon,"? 3,00,00,000.00"," ? 35,00,00,000.00 ",Blockbuster
+tt0376076,Pithamagan,https://www.imdb.com/title/tt0376076/,Movie,8.3,139,2003,"Action, Crime, Drama",8346,Bala,"? 4,00,00,000.00"," ? 18,00,00,000.00 ",Blockbuster
+tt0422934,Perazhagan,https://www.imdb.com/title/tt0422934/,Movie,6.4,143,2004,"Comedy, Drama, Romance",1854,Sasi Shankar,"? 3,30,00,000.00"," ? 10,00,00,000.00 ",Super hit
+tt0375571,Aayitha Ezhuthu,https://www.imdb.com/title/tt0375571/,Movie,7.9,160,2004,"Action, Drama, Thriller",5496,Mani Ratnam,"? 5,00,00,000.00"," ? 11,00,00,000.00 ",Hit
+tt1496797,Maayavi,https://www.imdb.com/title/tt1496797/,Movie,5,156,2005,"Comedy, Drama",743,Singampuli,"? 5,00,00,000.00"," ? 50,00,000.00 ",Disaster
+tt0449951,Ghajini,https://www.imdb.com/title/tt0449951/,Movie,7.6,175,2005,"Action, Drama, Mystery, Romance, Thriller",16888,A.R. Murugadoss,"? 7,00,00,000.00"," ? 50,00,00,000.00 ",Blockbuster
+tt0455309,Aaru,https://www.imdb.com/title/tt0455309/,Movie,5.9,168,2005,"Action, Adventure, Comedy, Drama, Thriller",1990,Hari,"? 5,00,00,000.00"," ? 12,00,00,000.00 ",Hit
+tt0475632,June R,https://www.imdb.com/title/tt0475632/,Movie,4.8,99,2005,"Drama, Family",250,Revathy S. Varma,"? 4,40,00,000.00"," ? 8,00,00,000.00 ",Flop
+tt0464071,Sillunu Oru Kaadhal,https://www.imdb.com/title/tt0464071/,Movie,7.1,175,2006,"Drama, Romance",4533,Obeli N. Krishna,"? 3,00,00,000.00"," ? 18,00,00,000.00 ",Hit
+tt1436481,Vel,https://www.imdb.com/title/tt1436481/,Movie,6.3,160,2007,"Action, Comedy, Drama",2549,Hari,"? 8,00,00,000.00"," ? 31,00,00,000.00 ",Super hit
+tt1180583,Vaaranam Aayiram,https://www.imdb.com/title/tt1180583/,Movie,8.2,169,2008,"Action, Drama, Musical, Romance",15725,Gautham Vasudev Menon,"? 16,00,00,000.00"," ? 49,00,00,000.00 ",Blockbuster
+tt1355546,Ayan,https://www.imdb.com/title/tt1355546/,Movie,7.7,162,2009,"Action, Crime, Drama, Thriller",12540,K.V. Anand,"? 20,00,00,000.00"," ? 72,00,00,000.00 ",Blockbuster
+tt1483820,Aadhavan,https://www.imdb.com/title/tt1483820/,Movie,5.6,159,2009,"Action, Comedy",4137,K.S. Ravikumar,"? 25,00,00,000.00"," ? 59,00,00,000.00 ",Super hit
+tt1655607,Singam,https://www.imdb.com/title/tt1655607/,Movie,7,160,2010,"Action, Crime, Drama, Thriller",8604,Hari,"? 12,00,00,000.00"," ? 90,00,00,000.00 ",Blockbuster
+tt1727535,Rakhta Charitra 2,https://www.imdb.com/title/tt1727535/,Movie,6.5,135,2010,"Action, Biography, Crime, Drama, Thriller",3373,Ram Gopal Varma,"? 11,00,00,000.00"," ? 20,00,00,000.00 ",Flop
+tt1725795,7aum Arivu,https://www.imdb.com/title/tt1725795/,Movie,6.7,168,2011,"Action, Sci-Fi, Thriller",14640,A.R. Murugadoss,"? 75,00,00,000.00"," ? 1,08,00,00,000.00 ",Hit
+tt2246837,Maattrraan,https://www.imdb.com/title/tt2246837/,Movie,6.3,165,2012,"Action, Sci-Fi, Thriller",7619,K.V. Anand,"? 81,00,00,000.00"," ? 87,00,00,000.00 ",Average
+tt2309600,Singam 2,https://www.imdb.com/title/tt2309600/,Movie,6.4,166,2013,"Action, Crime, Drama, Thriller",8257,Hari,"? 45,00,00,000.00"," ? 1,23,00,00,000.00 ",Blockbuster
+tt3563156,Anjaan,https://www.imdb.com/title/tt3563156/,Movie,5.4,166,2014,"Action, Crime, Drama, Thriller",6736,"N. Linguswamy, Suresh","? 70,00,00,000.00"," ? 89,00,00,000.00 ",Average
+tt4328798,Massu Engira Masilamani,https://www.imdb.com/title/tt4328798/,Movie,5.9,151,2015,"Action, Comedy, Drama, Horror",5472,Venkat Prabhu,"? 55,00,00,000.00"," ? 80,00,00,000.00 ",Average
+tt5285050,Pasanga 2,https://www.imdb.com/title/tt5285050/,Movie,7.3,127,2015,Drama,2034,Pandiraaj,"? 4,90,00,000.00"," ? 51,00,00,000.00 ",Blockbuster
+tt4981966,24,https://www.imdb.com/title/tt4981966/,Movie,7.9,164,2016,"Action, Comedy, Drama, Musical, Sci-Fi, Thriller",26533,Vikram K. Kumar,"? 60,00,00,000.00"," ? 1,10,00,00,000.00 ",Super hit
+tt5323640,Singam 3,https://www.imdb.com/title/tt5323640/,Movie,6,155,2017,"Action, Crime, Drama, Thriller",7832,"Hari, P.H. Kumanan","? 75,00,00,000.00"," ? 1,11,00,00,000.00 ",Average
+tt6237966,Thaanaa Serndha Koottam,https://www.imdb.com/title/tt6237966/,Movie,6.3,138,2018,"Action, Comedy, Crime",6790,Vignesh Shivan,"? 43,00,00,000.00"," ? 9,34,00,000.00 ",Average
+tt8094252,NGK,https://www.imdb.com/title/tt8094252/,Movie,5.7,148,2019,"Action, Drama, Thriller",5780,K. Selvaraghavan,"? 53,00,00,000.00"," ? 6,90,00,000.00 ",Flop
+tt8411144,Kaappaan,https://www.imdb.com/title/tt8411144/,Movie,6.2,166,2019,"Action, Drama, Thriller",6926,K.V. Anand,"? 60,00,00,000.00"," ? 70,00,00,000.00 ",Flop
+tt10189514,Soorarai Pottru,https://www.imdb.com/title/tt10189514/,Movie,8.6,153,2020,Drama,131631,Sudha Kongara,"? 25,00,00,000.00"," ? 10,00,00,000.00 ",Blockbuster
+tt15097216,Jai Bhim,https://www.imdb.com/title/tt15097216/,Movie,8.6,164,2021,"Crime, Drama",233774,T.J. Gnanavel,"? 20,00,00,000.00"," ? 50,00,00,000.00 ",Blockbuster
+tt10340562,Etharkkum Thunindhavan,https://www.imdb.com/title/tt10340562/,Movie,6.4,151,2022,"Action, Crime, Drama, Thriller",14125,Pandiraaj,"? 60,00,00,000.00"," ? 63,00,00,000.00 ",Disaster
+tt22036406,Kanguva,https://www.imdb.com/title/tt22036406/,Movie,4.5,152,2024,"Action, Adventure, Fantasy, Thriller",15746,Siva,"? 30,00,00,00,00,000.00"," ? 1,09,00,00,000.00 ",Disaster
+tt31945132,Retro,https://www.imdb.com/title/tt31945132/,Movie,6.4,168,2025,"Action, Crime, Drama, Romance, Thriller",16751,Karthik Subbaraj,"? 65,00,00,000.00"," ? 1,04,00,00,000.00 ",Average
